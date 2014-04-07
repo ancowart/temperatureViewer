@@ -1,4 +1,4 @@
-1396900318
+1396900674
 Application	C:/Users/Anthony/Documents/GitHub/temperatureViewer/config/application.rb	  class Application 
 ApplicationController	C:/Users/Anthony/Documents/GitHub/temperatureViewer/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Users/Anthony/Documents/GitHub/temperatureViewer/app/helpers/application_helper.rb	module ApplicationHelper
@@ -20,4 +20,5 @@ location_params	C:/Users/Anthony/Documents/GitHub/temperatureViewer/app/controll
 new	C:/Users/Anthony/Documents/GitHub/temperatureViewer/app/controllers/locations_controller.rb	  def new
 set_location	C:/Users/Anthony/Documents/GitHub/temperatureViewer/app/controllers/locations_controller.rb	    def set_location
 show	C:/Users/Anthony/Documents/GitHub/temperatureViewer/app/controllers/locations_controller.rb	  def show
+temp	C:/Users/Anthony/Documents/GitHub/temperatureViewer/app/models/location.rb	  attr_accessor :temp
 update	C:/Users/Anthony/Documents/GitHub/temperatureViewer/app/controllers/locations_controller.rb	  def update

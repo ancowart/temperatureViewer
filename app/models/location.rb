@@ -1,4 +1,4 @@
 class Location < ActiveRecord::Base
   
-  arr_acessor:temp
+  attr_accessor :temp
 end
