@@ -1,0 +1,6 @@
+--- 
+cursor_positions: 
+  - :path: app/models/location.rb
+    :cursor_offset: 57
+    :timestamp: 2014-04-07 15:51:38.003000 -04:00
+files_to_retain: 0
